@@ -1,0 +1,20 @@
+FIN
+[(Id: 1, Name: Ali, Salary: 2000, 'Departement:' FIN)]
+[(Id: 7, Name: Aya, Salary: 4000, 'Departement:' FIN)]
+
+
+HR
+[(Id: 2, Name: Ali, Salary: 3000, 'Departement:' HR)]
+[(Id: 4, Name: Mahmoud, Salary: 5000, 'Departement:' HR)]
+
+
+ENG
+[(Id: 3, Name: Amr, Salary: 4000, 'Departement:' ENG)]
+[(Id: 5, Name: Hossam, Salary: 9000, 'Departement:' ENG)]
+[(Id: 6, Name: Muhammed, Salary: 7000, 'Departement:' ENG)]
+
+
+
+[(Id: 8, Name: , Salary: 0.0, 'Departement:' )]
+
+

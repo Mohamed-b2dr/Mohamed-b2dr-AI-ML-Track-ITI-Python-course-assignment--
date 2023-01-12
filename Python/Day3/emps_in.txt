@@ -1,0 +1,7 @@
+1,ahmed ali,2000,finance
+2,Ali ahmed,3000,HR
+3,amr ahmed,4000,ENG
+4,ali mahmoud,5000,HR
+5,hossam ahmed,9000,ENG
+6,muhammmed mamdouh,7000,ENG
+7,mahmoud ahmed,4000,finance

@@ -1,0 +1,6 @@
+(Id: 3, Name: Amr, Salary: 4000, 'Departement:' ENG)
+(Id: 4, Name: Mahmoud, Salary: 5000, 'Departement:' HR)
+(Id: 5, Name: Hossam, Salary: 9000, 'Departement:' ENG)
+(Id: 6, Name: Muhammed, Salary: 7000, 'Departement:' ENG)
+(Id: 7, Name: Aya, Salary: 4000, 'Departement:' FIN)
+(Id: 8, Name: , Salary: 0.0, 'Departement:' )
